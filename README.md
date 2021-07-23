@@ -73,5 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# My-Portfolio" 
 "# My-Portfolio" 
 
-
-patrick Lugassy Check
